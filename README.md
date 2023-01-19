@@ -25,7 +25,7 @@ Ape is an innovative smart contract development and testing framework.
 It is inspired by Brownie, and it has essentially the same syntax.
 Still, Ape focuses on a more modular approach, allowing us to build and use external plugins to add functionality.
 
-## Quick Usage
+## Quick start
 
 See [Smart contracts framework Ape by ApeWorX—What is it and how to use it](https://chainstack.com/apeworx-ape-framework-what-is-it-and-how-to-use-it/) to learn how to create an Ape project and use the Chainstack plugin to deploy it.
 
