@@ -3,8 +3,8 @@
 > Chainstack is the leading suite of services connecting developers with Web3 infrastructure.   
 
 <p align="center">
-  <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/ides"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /></a>&nbsp;
-  <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/databases"><img src="https://tinyurl.com/mp2wu3xx" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-ethereum/"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-bnb-smart-chain/"><img src="https://tinyurl.com/mp2wu3xx" /></a>&nbsp;
 </p>
 
 <p align="center">
