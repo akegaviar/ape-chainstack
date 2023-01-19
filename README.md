@@ -46,6 +46,7 @@ Still, Ape focuses on a more modular approach, allowing us to build and use exte
 ### Dependencies
 
 - [python3](https://www.python.org/downloads) version 3.7.2 or greater
+- [Ape framework](https://github.com/ApeWorX/ape)
 - python3-dev
 
   - MacOS. Should already have the [correct headers if Python is installed with `brew`](https://stackoverflow.com/questions/32578106/how-to-install-python-devel-in-mac-os)
@@ -60,29 +61,9 @@ Still, Ape focuses on a more modular approach, allowing us to build and use exte
 
 ## Installation
 
-Verify the Python version installed:
-
-```sh
-Python3 --version
-```
-
 ### Virtual environment
 
 It is recommended to operate in a virtual environment; you will need to [install Ape](https://github.com/ApeWorX/ape#installation) in the virtual environment if you decide to use one.
-
-Create a virtual environment.
-
-```sh
-python3 -m venv /path/to/new/environment
-```
-
-> Keep in mind that you can place the virtual environment where you prefer.
-
-Then activate it.
-
-```sh
-source /bin/activate
-```
 
 ### Install ape-chainstack via `pip`
 
@@ -116,6 +97,8 @@ Installed Plugins:
 ```
 
 ## Quick Usage
+
+See [Smart contracts framework Ape by ApeWorX—What is it and how to use it](https://chainstack.com/apeworx-ape-framework-what-is-it-and-how-to-use-it/) to learn how to create an Ape project and use the Chainstack plugin to deploy it.
 
 Follow these steps to sign up on Chainstack, deploy a node, and find your endpoint credentials:
 
