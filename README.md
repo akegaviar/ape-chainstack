@@ -87,21 +87,6 @@ Now you are ready to use Ape to develop and test your smart contract, checkout t
 
 - Linux or macOS
 - Windows Subsystem Linux ([WSL](https://docs.microsoft.com/en-us/windows/wsl/install)) if operating on windows.
-
-### Dependencies
-
-- [python3](https://www.python.org/downloads) version 3.7.2 or greater
-- [Ape framework](https://github.com/ApeWorX/ape)
-- python3-dev
-
-  - MacOS. Should already have the [correct headers if Python is installed with `brew`](https://stackoverflow.com/questions/32578106/how-to-install-python-devel-in-mac-os)
-
-  - Linux. Install python3-dev with:
-
-  ```sh
-  sudo apt-get install python3-dev
-  ```
-
 > **Note:** Always check the [Ape docs to find the updated requirements](https://docs.apeworx.io/ape/stable/userguides/quickstart.html#prerequisite).
 
 ## Installation
